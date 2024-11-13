@@ -40,7 +40,7 @@ This project is a TypeScript React application that allows users to upload media
    ```bash
    https://github.com/UsmanGhafoor42/media-uploader.git
    cd media-uploader
- ```
+   ```
 
 2. **Install Dependencies**
    ```bash
