@@ -39,8 +39,8 @@ This project is a TypeScript React application that allows users to upload media
 1. **Clone the Repository**
    ```bash
    https://github.com/UsmanGhafoor42/media-uploader.git
-   cd media-uploader-with-captions
-   ```
+   cd media-uploader
+ ```
 
 2. **Install Dependencies**
    ```bash
